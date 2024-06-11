@@ -1,4 +1,4 @@
-[<p align="center"><img align="center" src="https://github.com/crypkelly/crypkelly/blob/main/home.webp?raw=true" style = "width: -webkit-fill-available;"/></p>
+[<p align="center"><img align="center" src="https://github.com/crypkelly/crypkelly/blob/main/home.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loganworld.loganworld" />
 <img align="right" src="https://img.shields.io/github/followers/loganworld?label=Follow&style=social" />
@@ -10,12 +10,12 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
-    <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="200"></td>
+    <td><img src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/unity-2749374-2284764.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
   </tr>
 </table>
 
