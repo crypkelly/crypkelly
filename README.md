@@ -46,8 +46,6 @@
 <br>
 
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
-<hr>
-<br>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="25"/>
