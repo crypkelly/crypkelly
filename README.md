@@ -1,10 +1,8 @@
-<p align="center"><img align="center" src="https://github.com/crypkelly/crypkelly/blob/main/home.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
-
 <!-- ![header-background](https://user-images.githubusercontent.com/88071912/147695647-00872f58-21b5-48ce-a541-a9fa63e8107e.jpg) -->
 ![](https://github.com/crypkelly/crypkelly/blob/main/home.jpg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+New+Dragon+Warrior.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
     <h2 align="center">
-    I WILL OFFER GOOD SOLUTION.
+    Everything begins with an idea..
     </h2>
     <br>
 <h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
