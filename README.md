@@ -4,16 +4,9 @@
     Everything begins with an idea..
     </h2>
     <br>
-<h3 align="center">⭐⭐⭐⭐⭐ 5-Stars Rating for all of my Projects.⭐⭐⭐⭐⭐</h3><br>
-<h4 align="center">👯Let's make "Success" Together!👯</h4><br>
-🤔 Enthusiastic Web Developer who loves to create effective websites and work with businesses to help them grow. 🤔
-<br>
-<h4 align="center">🔥 My skills 🔥</h4>
-<hr>
-<br>
-<p>💬I consider myself a person who follows modern web development practices and new technologies.</p>
-<p>So, this list will be uniformly updated as I never stop learning.</p>
-<br>
+<h3 align="center">⭐⭐⭐⭐⭐ WEB + Blockchain + AI⭐⭐⭐⭐⭐</h3><br>
+
+<h4 align="center">🔥 skill set 🔥</h4>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -49,42 +42,6 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<hr>
-<br>
-<h4 align="center">🔥 Personal Qualities 🔥</h4>
-<hr>
-<br>
-<div>
-<img align="right" alt="BITCOIN" src="https://user-images.githubusercontent.com/88071912/155071772-ee2aea54-5e30-43ee-bfdb-441225beff10.png" width="50%"/>
-
-⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
-⚡Full-time developer (40+ hours per week).<br>
-⚡Fast response and good communication skills.<br>
-⚡Professional customer service and communication at all times<br>
-⚡well-organized/commented code.<br>
-⚡SEO friendly, semantic markup, and load speed optimization.<br>
-⚡Testing and cross-browser / cross-device compatibility.<br>
-⚡Unique, High quality and Professional Design<br>
-⚡100% ongoing satisfaction with your project.<br>
-⚡Provide the result with high quality.<br>
-⚡Professional customization.<br>
-⚡UNLIMITED revisions and color options based on your requirements and branding<br>
-⚡Full Icon / Image package that is used in the Mockup<br>
-⚡A full package including all the source files<br>
-⚡100% on-time delivery of the product.<br>
-⚡Update the result every day.<br>
-</div>
-<p>
-🔭I am a responsible and purposeful person, I can easily interact with the development team, because I have experience working in a team, I can clearly follow the deadline without compromising the quality of the code.
-Close contact with you is very important for me, to avoid misunderstandings in the development process and to save time on the long end.
-Courage, It's not too late to build a better world.
-Alone we can do so little; together we can do so much.    
-</p>
-
-<hr/>
-
-<h2 align="center"> 👯Let's go together!👯 </h2>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
 <br>
 
