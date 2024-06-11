@@ -7,7 +7,7 @@
 <h3 align="center">⭐⭐⭐⭐⭐ WEB + Blockchain + AI⭐⭐⭐⭐⭐</h3><br>
 
 <h4 align="center">🔥 skill set 🔥</h4>
-
+<br>
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
@@ -46,6 +46,7 @@
 <br>
 
 <h4 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h4>
+<br>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="25"/>
