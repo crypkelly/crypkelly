@@ -1,4 +1,4 @@
-[<p align="center"><img align="center" src="https://github.com/crypkelly/crypkelly/blob/main/home.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
+<p align="center"><img align="center" src="https://github.com/crypkelly/crypkelly/blob/main/home.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=loganworld.loganworld" />
 <img align="right" src="https://img.shields.io/github/followers/loganworld?label=Follow&style=social" />
